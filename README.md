@@ -7,3 +7,7 @@ ReVibe is a music webapp designed to recommend a song playlist based from the em
 The webapp utilized HTML, CSS, Javascript for front-end while PHP for back-end.
 The face emotion recognition (FER) and text emotion recognition (TER) models were developed using python.
 The API used was RapidAPI [Depreciated] and SpotifyAPI [Depreciated].
+
+To login:
+username: test2
+pw: test1234
